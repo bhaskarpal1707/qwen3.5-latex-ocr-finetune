@@ -1,0 +1,3 @@
+tag,num_samples,mean_cer,exact_match_accuracy,mean_bleu,eval_time_seconds
+baseline (before fine-tuning),30,0.14968289486489628,0.0,0.8554821600505245,323.64
+fine-tuned (after fine-tuning),30,0.11014169130841377,0.2,0.8834417360042003,200.08

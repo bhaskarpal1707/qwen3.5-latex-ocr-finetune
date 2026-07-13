@@ -1,0 +1,18 @@
+{
+  "before_finetuning": {
+    "tag": "baseline (before fine-tuning)",
+    "num_samples": 30,
+    "mean_cer": 0.14968289486489628,
+    "exact_match_accuracy": 0.0,
+    "mean_bleu": 0.8554821600505245,
+    "eval_time_seconds": 323.64
+  },
+  "after_finetuning": {
+    "tag": "fine-tuned (after fine-tuning)",
+    "num_samples": 30,
+    "mean_cer": 0.11014169130841377,
+    "exact_match_accuracy": 0.2,
+    "mean_bleu": 0.8834417360042003,
+    "eval_time_seconds": 200.08
+  }
+}

@@ -1,0 +1,17 @@
+gradio
+spaces
+transformers
+torch
+torchvision
+pillow
+accelerate
+huggingface_hub
+
+# streamlit
+# torch
+# transformers
+# accelerate
+# Pillow
+# sentencepiece
+# protobuf
+# safetensors
