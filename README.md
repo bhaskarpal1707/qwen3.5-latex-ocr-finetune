@@ -1,5 +1,7 @@
 # Qwen3.5-0.8B — Fine-tuned for LaTeX OCR
 
+![Website-Demo](demo.png)
+
 This model is a fine-tuned version of [`unsloth/Qwen3.5-0.8B`](https://huggingface.co/unsloth/Qwen3.5-0.8B), a vision-language model, adapted to convert **images of handwritten/printed math formulas into LaTeX code**.
 
 Fine-tuning was performed using [Unsloth](https://github.com/unslothai/unsloth) with LoRA (parameter-efficient fine-tuning) on the [`unsloth/LaTeX_OCR`](https://huggingface.co/datasets/unsloth/LaTeX_OCR) dataset.
