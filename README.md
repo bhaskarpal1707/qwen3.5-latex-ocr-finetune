@@ -6,6 +6,8 @@ This model is a fine-tuned version of [`unsloth/Qwen3.5-0.8B`](https://huggingfa
 
 Fine-tuning was performed using [Unsloth](https://github.com/unslothai/unsloth) with LoRA (parameter-efficient fine-tuning) on the [`unsloth/LaTeX_OCR`](https://huggingface.co/datasets/unsloth/LaTeX_OCR) dataset.
 
+> ⚡ A full-scale version trained on the complete 68.7k-row dataset is available at [qwen3.5-latex-ocr-finetune-v2](https://github.com/bhaskarpal1707/qwen3.5-latex-ocr-finetune-v2).
+
 ## Model Details
 
 - **Base model:** unsloth/Qwen3.5-0.8B (vision-language)
